@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LearnHelper</string>
+    <string name="raw_paste">Raw paste data: </string>
+    <string name="parse">Parse</string>
+    <string name="start">Start quiz</string>
+    <string name="hint">Вставь сюда текст, который нужно учитб</string>
+    <string name="firstprt">Первая часть для вопросов</string>
+    <string name="secondprt">Вторая часть для вопросов</string>
+    <string name="frans">4 варианта ответа</string>
+    <string name="typeans">Написать ответ</string>
+    <string name="end">А вот и конец))0)</string>
+    <string name="again">Eщё разок (╯°□°）╯︵ ┻━┻</string>
+    <string name="newTest">Новый тест?)</string>
+    <string name="answer">Ответить!</string>
+    <string name="hint_type">Сюда нужно писать ответ ;)</string>
+    <string name="TypeAns.ans">Здесь появиться ответ))0) только кликни --------------------------------------></string>
+    <string name="TYpeAns.ansbtn">ЖМИ!</string>
+</resources>
